@@ -1,6 +1,5 @@
 version: STSv1
 mode: enforce
-mx: mxext1.mailbox.org
-mx: mxext2.mailbox.org
-mx: mxext3.mailbox.org
+mx: in1-smtp.messagingengine.com
+mx: in2-smtp.messagingengine.com
 max_age: 604800
